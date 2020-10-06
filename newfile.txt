@@ -2,4 +2,4 @@ testing is done for new file
 new testcases are not required
 new line added
 
-What's up peoples!
+What's up everyone!
