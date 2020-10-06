@@ -1,5 +1,5 @@
-testing new file
-new test
+testing is done for new file
+new testcases are not required
 new line added
 
-What's up peoplels!
+What's up peoples!
