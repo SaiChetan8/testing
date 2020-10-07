@@ -2,4 +2,6 @@ testing is done for new file
 new testcases are not required
 new line added
 
-What's up everyone!
+What's up everyone! 
+
+checking for stash conflict
