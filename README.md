@@ -1,6 +1,7 @@
 # testing
 testing
 # Header
+# Header 1
 # Header 2
 Adding some info in for reference
 ## Purpuse
