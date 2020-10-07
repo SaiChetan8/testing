@@ -1,8 +1,8 @@
 # testing
 testing
 # Header
-# Learning
-its in progress
+# Usage
+only for learning purpose
 # Header 2
 Adding some info in for reference
 ## Purpuse
